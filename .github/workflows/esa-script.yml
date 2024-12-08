@@ -1,4 +1,4 @@
-name: Run Python Script
+name: Run ESA Script
 
 on:
   workflow_dispatch:
